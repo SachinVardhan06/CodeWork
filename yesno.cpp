@@ -1,4 +1,4 @@
-#include<iostream>
+#include<bits/stdc++.h>
 #include<string>
 using namespace std;
 
@@ -27,3 +27,5 @@ int main(){
     }
     return 0;
 }
+
+// Changed iostream to bits/stdc++.h by Sachin Vardhan 
